@@ -4,7 +4,7 @@ This was my engineering project for my degree. Some diagrams are still in Polish
 
 ## The project is divided into 3 parts:
 
- - 3D files that you can print or manufacture in any other way,
+ - 3D files that you can print or manufacture in any other way. There are .stl files for printing and .ipt files. 
  - Matlab GUI for control and other scripts,
  - Source code for embedded system
 ## Used tools
@@ -17,9 +17,9 @@ This was my engineering project for my degree. Some diagrams are still in Polish
 
 ## Hardware used
 - drivers [DRV8825](https://www.pololu.com/product/2133/resources),
-- step motors,
+- step motors (some used motors from fax machine :) ),
 - microcontroller [STM32F411RE ARM Cortex M4](https://www.st.com/en/microcontrollers-microprocessors/stm32f411re.html),
-- impulse power supply,
+- impulse power supply (I use power supply for led strips, like [this](https://duckduckgo.com/?q=led+strip+power+supply&t=brave&iax=images&ia=images)),
 
 ## Electronic connection diagram
 **![](https://lh5.googleusercontent.com/nKmWJya0fbPWllSuQG_HQbM3DfYyDt-D9mA5hlWi7UDCMJye_BiMH2IU7uxxWnVfjyAYpFUSWzN58-nSRfCej1MkS4L7Yngdn_mJDnEYBA_8KRHLEEIubmvhMm2AaKCJHVUYA3jSzPIqjDf9Sx4xeQ)**
