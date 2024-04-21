@@ -1,5 +1,7 @@
 # DIY SCARA robot arm on STM
 **![](https://lh4.googleusercontent.com/ABQd5vq1c0ldNSoEnwkOGhyIGZaqVQTFeKYxtfsNj3kGQC6vxOHLKNlYYT2ozuKuFk2zLqL6891QtyBnZOXcPDm5re1l9ceZ-LM_snvF2MmU51Ttq4sJ8PyVP-bOtimQ9T2eR49-wyhFdd7ZgCoX0w)**
+**![](https://github.com/bigjohn98pl/Robot_Scara_G431/blob/main/how_it_looks.jpg?raw=true)**
+
 This was my engineering project for my degree. Some diagrams are still in Polish, I need to update them in the future. I managed to asseble this arm and it even worked! Still there is still some improvment to make, like changing step motors. I have some problems with them in the past, because the motors sometimes lost the position. I think It will be beter to use servo motors or encoders.
 
 ## The project is divided into 3 parts:
@@ -30,3 +32,5 @@ This was my engineering project for my degree. Some diagrams are still in Polish
 **![](https://lh4.googleusercontent.com/0ht6VHCupL8t4bBERGWUAZHz_y4jcy46S67kHKJvGChkQaMTBez2xoHmYMnqdsiuZMixcJe5aP-oQoxWEdga1gCYPUvwhI5727jpGE1EhffibXkIKN5SdF_Ct_lDy2_ndUVdEN59L4Ygsig5TgKlOw)**
 ## Diagram how GUI works (need to update for english)
 **![](https://lh3.googleusercontent.com/9ME3EkPGCfWSMHXNhlisFo4qE9BVxlJ-WTjOTdNCgGWW3hZemoOB0p6WUqxd7G4aynbeX0L3QdBRMtybPCmFn3U6dRyHJ9CEger93IjJt47axH4ZgrmY7zI_WTk48BT3iiHdO6hzO-8uSihuJoZUjQ)**
+# And here is how the GUI looks:
+**![](https://github.com/bigjohn98pl/Robot_Scara_G431/blob/main/guiAplication/SCARA_gui.png?raw=true)**
